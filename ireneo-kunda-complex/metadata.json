@@ -1,0 +1,6 @@
+{
+  "name": "Ireneo Kunda Complex",
+  "description": "Official interactive website for Ireneo Kunda Complex featuring School Profile, About Us, Gallery, Student Portal, Events Calendar, and Admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
